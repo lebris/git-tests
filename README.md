@@ -1,6 +1,6 @@
 # Git Tests #
 
-Current version v0.0.4
+Current version v0.0.5
 
 Branch master
 
@@ -12,3 +12,4 @@ Branch master
 * v0.0.2 - add web/ directory
 * v0.0.3 - add web/js/ directory
 * v0.0.4 - add vendor/ directory
+* v0.0.5 - add MyApp project directory
